@@ -37,7 +37,7 @@ In order to process this data, need to create machine learning models capable of
 * Random Forest model's best score of (0.8930001907304979) seems better than SVM model (0.8706847224871257) with hyperparameter tuning when comparing the scores.
 
 
-## [Neural Networks and Deep Learning Models](main_code/model_Neural_Network_and_Deep_Learning.ipynb)
+## [Neural Networks and Deep Learning Models](main_code/model_Neural_Networks_and_Deep_Learning.ipynb)
 * The accuracy of Neural Networks model and Deep Learning model is quite close without hyperparameter tuning and less training.
 Neural Network model: 0.8758581280708313
 
