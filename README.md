@@ -34,7 +34,7 @@ In order to process this data, need to create machine learning models capable of
 
 ## Random Forest Model
 * Best Score: 0.8930001907304979 
-* Random Forest model's best score of (0.8930001907304979) seems better than SVM model (0.8706847224871257) with hyperparameter tuningwhen comparing the scores.
+* Random Forest model's best score of (0.8930001907304979) seems better than SVM model (0.8706847224871257) with hyperparameter tuning when comparing the scores.
 
 
 ## Neural Networks and Deep Learning Models
@@ -55,7 +55,7 @@ Deep Learning model:  0.8747139573097229
 
 * All the models are good for predicting FALSE POSITIVE well with f1-score closer to 1 (0.99).
 
-* Same comparison for Candidate - Random Forest model F1 -score is higher than other model.
+* Same comparison for Candidate - Random Forest model F1 -score is higher than other models.
 
 - - -
 
