@@ -32,7 +32,7 @@ In order to process this data, need to create machine learning models capable of
 
 * Comparison of each model's performance as well as a summary about the findings and assumptions made based on the models 
 
-## [Random Forest Model](main_code/model_Random Forest.ipynb)
+## [Random_Forest_Model](main_code/model_Random Forest.ipynb)
 * Best Score: 0.8930001907304979 
 * Random Forest model's best score of (0.8930001907304979) seems better than SVM model (0.8706847224871257) with hyperparameter tuning when comparing the scores.
 
