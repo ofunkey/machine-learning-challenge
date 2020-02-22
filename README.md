@@ -40,6 +40,7 @@ In order to process this data, need to create machine learning models capable of
 ## Neural Networks and Deep Learning Models
 * The accuracy of Neural Networks model and Deep Learning model is quite close without hyperparameter tuning and less training.
 Neural Network model: 0.8758581280708313
+
 Deep Learning model:  0.8747139573097229 
 
 ## SVM Model
@@ -49,7 +50,6 @@ Deep Learning model:  0.8747139573097229
 * Best Grid Score: 0.8489414457371733
 
 - - -
-
 
 * From observation, Random Forest model is better at predicting new exoplanets with confirmed f1- score at 0.81 while SVM model is 0.78 and KNN model is 0.72.
 
