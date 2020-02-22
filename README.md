@@ -46,7 +46,7 @@ Deep Learning model:  0.8747139573097229
 ## SVM Model
 * Best Score: 0.8706847224871257 
 
-## KNN Model
+## [KNN Model](main_code/model_KNN.ipynb)
 * Best Grid Score: 0.8489414457371733
 
 - - -
